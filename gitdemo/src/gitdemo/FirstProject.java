@@ -9,7 +9,7 @@ public class FirstProject {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int sum=  addNumber(20,10);
+int sum=  addNumber(80,10);
 System.out.println(sum);
 	}
 
